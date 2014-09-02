@@ -1,7 +1,6 @@
-agencia-labbo-soleflex
-======================
-
+#Projeto Soleflex
 Demo: http://lab.felipegenuino.com/soleflex/
+
 
 ##Images:
 ![imagem](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/images/gif/home.jpg)
@@ -11,15 +10,15 @@ Demo: http://lab.felipegenuino.com/soleflex/
 
 ###Links
 >- **Demo página inicial** [https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/index.html](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/index.html)
->- **Demo página de contato** [#](#)
->- **Demo página de fornecedores** [#](#)
->- **Demo página do grupo** [#](#)
->- **Demo página de notícias** [#](#)
->- **Demo página de page** [#](#)
->- **Demo página de produtos** [#](#)
->- **Demo página de single notícias** [#](#)
->- **Demo página de single produto** [#](#)
->- **Demo página de single produto-2** [#](#)
+>- **Demo página de contato** [https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/contato.html](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/contato.html)
+>- **Demo página de fornecedores** [https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/fornecedores.html](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/fornecedores.html)
+>- **Demo página do grupo** [https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/grupo.html](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/grupo.html)
+>- **Demo página de notícias** [https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/noticias.html](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/noticias.html)
+>- **Demo página de page** [https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/page.html](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/page.html)
+>- **Demo página de produtos** [https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/produtos.html](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/produtos.html)
+>- **Demo página de single notícias** [https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/single-noticia.html](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/single-noticia.html)
+>- **Demo página de single produto** [https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/single-produto.html](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/single-produto.html)
+>- **Demo página de single produto-2** [https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/single-produto-2.html](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/single-produto-2.html)
 
 
 
