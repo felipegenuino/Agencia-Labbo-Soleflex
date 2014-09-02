@@ -4,7 +4,7 @@ agencia-labbo-soleflex
 Demo: http://lab.felipegenuino.com/soleflex/
 
 ##Images:
-![imagem](https://raw.githubusercontent.com/felipegenuino/Agencia-Labbo-Projeto-Seventh/gh-pages/images/gif/seventh-1.gif)
+![imagem](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/images/gif/home.jpg)
 
 
 
