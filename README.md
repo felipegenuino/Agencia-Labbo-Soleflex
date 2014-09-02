@@ -10,7 +10,7 @@ Demo: http://lab.felipegenuino.com/soleflex/
 
 
 ###Links
->- **Demo página inicial** [#](#)
+>- **Demo página inicial** [https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/index.html](https://github.com/felipegenuino/agencia-labbo-soleflex/blob/gh-pages/index.html)
 >- **Demo página de contato** [#](#)
 >- **Demo página de fornecedores** [#](#)
 >- **Demo página do grupo** [#](#)
