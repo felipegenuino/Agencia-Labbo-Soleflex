@@ -1,5 +1,6 @@
 #Projeto Soleflex
-Demo: http://lab.felipegenuino.com/soleflex/
+Visite o website: http://www.soleflex.com.br/
+ 
 
 
 ##Images:
